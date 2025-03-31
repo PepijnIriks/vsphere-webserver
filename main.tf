@@ -9,7 +9,7 @@ terraform {
 
 provider "vsphere" {
   user                 = "i509493@fhict.local" 
-  password             = "Bakfiets26!"
+  password             = ""
   vsphere_server       = "vcenter.netlab.fontysict.nl"
   allow_unverified_ssl = true
 }
